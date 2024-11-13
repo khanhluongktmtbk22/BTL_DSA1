@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|solutionrelative:kNN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\mnist.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|solutionrelative:mnist.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|solutionrelative:kNN.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E51FFE1-39BD-47CC-BE7E-4316AB15E60E}|btl_dsa1_p1.vcxproj|solutionrelative:main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kNN.cpp",
+              "DocumentMoniker": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.cpp",
+              "RelativeDocumentMoniker": "kNN.cpp",
+              "ToolTip": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.cpp",
+              "RelativeToolTip": "kNN.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T22:04:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.hpp",
+              "DocumentMoniker": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.hpp",
+              "RelativeDocumentMoniker": "main.hpp",
+              "ToolTip": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.hpp",
+              "RelativeToolTip": "main.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-06T17:22:18.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mnist.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\mnist.csv",
+              "RelativeDocumentMoniker": "mnist.csv",
+              "ToolTip": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\mnist.csv",
+              "RelativeToolTip": "mnist.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-06T15:44:15.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kNN.hpp",
+              "DocumentMoniker": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.hpp",
+              "RelativeDocumentMoniker": "kNN.hpp",
+              "ToolTip": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\kNN.hpp",
+              "RelativeToolTip": "kNN.hpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-06T10:00:00.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Acer\\code C\u002B\u002B\\btl_dsa1_p1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T09:59:55.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

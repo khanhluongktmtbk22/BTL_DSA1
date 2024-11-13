@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(51,16): warning C4101: 'nCols': unreferenced local variable
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(51,9): warning C4101: 'nRows': unreferenced local variable
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(61,16): warning C4101: 'nCols': unreferenced local variable
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(61,9): warning C4101: 'nRows': unreferenced local variable
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(78,16): warning C4101: 'nCols': unreferenced local variable
+C:\Users\Acer\code C++\btl_dsa1_p1\main.cpp(78,9): warning C4101: 'nRows': unreferenced local variable
+  btl_dsa1_p1.vcxproj -> C:\Users\Acer\code C++\btl_dsa1_p1\x64\Debug\btl_dsa1_p1.exe
